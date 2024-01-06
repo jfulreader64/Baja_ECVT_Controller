@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM32")(type "KiCad")(uri "C:/Users/jayfu/Downloads/STM32H725VGT6/KiCADv6/2023-12-28_05-40-55.kicad_sym")(options "")(descr ""))
+  (lib (name "crystal")(type "KiCad")(uri "C:/Users/jayfu/Downloads/TSX-3225_16.0000MF09Z-AC6/TSX-3225_16.0000MF09Z-AC6.kicad_sym")(options "")(descr ""))
+  (lib (name "DC_DC")(type "KiCad")(uri "C:/Users/jayfu/Downloads/K7803_500R3/K7803-500R3.kicad_sym")(options "")(descr ""))
+  (lib (name "curr_sense_amp")(type "KiCad")(uri "C:/Users/jayfu/Downloads/INA2180A2IDGKR/KiCADv6/2024-01-02_21-16-02.kicad_sym")(options "")(descr ""))
+  (lib (name "Half_Bridge_driver")(type "KiCad")(uri "C:/Users/jayfu/Downloads/IR2103STRPBF/IR2103STRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "My_diodes")(type "KiCad")(uri "C:/Users/jayfu/Downloads/DSS110U/KiCADv6/2024-01-03_00-01-36.kicad_sym")(options "")(descr ""))
+  (lib (name "shottky_diode")(type "KiCad")(uri "C:/Users/jayfu/Downloads/MBR1560S/KiCADv6/2024-01-06_20-49-20.kicad_sym")(options "")(descr ""))
+)
